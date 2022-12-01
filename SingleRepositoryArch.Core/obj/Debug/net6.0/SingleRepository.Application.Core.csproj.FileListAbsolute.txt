@@ -1,0 +1,12 @@
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\bin\Debug\net6.0\SingleRepository.Application.Core.deps.json
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\bin\Debug\net6.0\SingleRepository.Application.Core.dll
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\bin\Debug\net6.0\SingleRepository.Application.Core.pdb
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.csproj.AssemblyReference.cache
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.AssemblyInfoInputs.cache
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.AssemblyInfo.cs
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.csproj.CoreCompileInputs.cache
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.dll
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\refint\SingleRepository.Application.Core.dll
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\SingleRepository.Application.Core.pdb
+F:\Companies\For-Github\Single-Repository\Application\SingleRepository.Application.Core\obj\Debug\net6.0\ref\SingleRepository.Application.Core.dll
