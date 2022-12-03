@@ -1,0 +1,3 @@
+# Single-Core-Repository-Architecture
+This project wants to present an architecture that uses just a single repository for all entities instead of a repository for each entity, 
+so I try to implement a simple code with a focus on Architecture not Principles of code implementation like SOLID, security, error handling, EF optimization, ...
